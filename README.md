@@ -1,2 +1,2 @@
 # rva-lead-assigner
-ASsign Leads
+Assign Leads
